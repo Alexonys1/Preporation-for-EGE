@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "подготовка-к-егэ-по-информатике"
+version = "0.1.0"
+description = "Здесь я храню свои решения заданий из ЕГЭ."
+authors = ["Alex <leha.bondar.05@mail.ru>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
